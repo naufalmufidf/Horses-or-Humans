@@ -1,2 +1,2 @@
 # Horses-or-Humans
-Horses or Humans? A CNN classifier.
+A Convolutional Neural Network that can classify between horses and humans.
